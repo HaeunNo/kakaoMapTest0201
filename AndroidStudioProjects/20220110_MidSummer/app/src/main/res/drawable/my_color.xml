@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--선택했을 때의 색깔, 선택 안 했을 때의 색깔 두개를 지정해주자 -->
+    <item android:color = "#0054FF" android:state_selected="true"/>
+    <item android:color = "#D1B2FF" android:state_selected="false"/>
+</selector>
